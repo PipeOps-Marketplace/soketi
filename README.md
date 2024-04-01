@@ -1,4 +1,4 @@
-# Soketi example
+# Soketi on PipeOps
 
 This example deploys self-hosted version of [Soketi](https://soketi.app). 
 
