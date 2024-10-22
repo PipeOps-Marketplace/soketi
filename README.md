@@ -2,8 +2,6 @@
 
 This example deploys self-hosted version of [Soketi](https://soketi.app). 
 
-[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](#)
-
 ## ✨ Features
 
 - Soketi
